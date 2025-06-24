@@ -106,19 +106,22 @@ Connect with me
 </div>
 
 ###
-<div style="display: flex; align-items: flex-start;">
-  <!-- KIRI: Graph + Counter -->
-  <div style="display: flex; flex-direction: column;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nuraisi/nuraisi/output/pacman-contribution-graph-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nuraisi/nuraisi/output/pacman-contribution-graph.svg">
-      <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nuraisi/nuraisi/output/pacman-contribution-graph.svg" style="width: 700px;" />
-    </picture>
-    <img src="https://profile-counter.glitch.me/nuraisi/count.svg?" style="margin-top: 10px;" />
-  </div>
-
-  <!-- KANAN: GIF -->
-  <div style="margin-left: 30px;">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWwxcGdvd2hjbTd3ajB0bWNiMmdmY2J0M3NieWRxNnpoNGdrMGlqcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" style="height: 340px;" />
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nuraisi/nuraisi/output/pacman-contribution-graph-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nuraisi/nuraisi/output/pacman-contribution-graph.svg">
+        <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nuraisi/nuraisi/output/pacman-contribution-graph.svg" width="600" />
+      </picture>
+    </td>
+    <td rowspan="2" style="vertical-align: top; padding-left: 20px;">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWwxcGdvd2hjbTd3ajB0bWNiMmdmY2J0M3NieWRxNnpoNGdrMGlqcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" height="300" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://profile-counter.glitch.me/nuraisi/count.svg?" />
+    </td>
+  </tr>
+</table>
