@@ -107,20 +107,20 @@ Connect with me
 
 ###
 
-<img align="right" height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWwxcGdvd2hjbTd3ajB0bWNiMmdmY2J0M3NieWRxNnpoNGdrMGlqcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+<div style="display: flex; align-items: flex-start;">
+  <div>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nuraisi/nuraisi/output/pacman-contribution-graph-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nuraisi/nuraisi/output/pacman-contribution-graph.svg">
+      <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nuraisi/nuraisi/output/pacman-contribution-graph.svg" width="300">
+    </picture>
+    <br>
+    <img src="https://profile-counter.glitch.me/nuraisi/count.svg?" />
+  </div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nuraisi/nuraisi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nuraisi/nuraisi/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nuraisi/nuraisi/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/nuraisi/count.svg?"  />
+  <div style="margin-left: 20px;">
+    <img height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWwxcGdvd2hjbTd3ajB0bWNiMmdmY2J0M3NieWRxNnpoNGdrMGlqcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
+  </div>
 </div>
 
 ###
