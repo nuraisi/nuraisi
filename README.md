@@ -106,18 +106,19 @@ Connect with me
 </div>
 
 ###
-<div style="display: flex; align-items: center;">
-  <div>
+<div style="display: flex; align-items: flex-start;">
+  <!-- Kolom Kiri: Contribution Graph + Counter -->
+  <div style="display: flex; flex-direction: column; align-items: center;">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nuraisi/nuraisi/output/pacman-contribution-graph-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nuraisi/nuraisi/output/pacman-contribution-graph.svg">
-      <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nuraisi/nuraisi/output/pacman-contribution-graph.svg" style="width: 100%; max-width: 600px;" />
+      <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nuraisi/nuraisi/output/pacman-contribution-graph.svg" style="max-width: 100%; width: 600px;" />
     </picture>
-    <br>
-    <img src="https://profile-counter.glitch.me/nuraisi/count.svg?" />
+    <img src="https://profile-counter.glitch.me/nuraisi/count.svg?" style="margin-top: 10px;" />
   </div>
 
+  <!-- Kolom Kanan: GIF -->
   <div style="margin-left: 30px;">
-    <img height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWwxcGdvd2hjbTd3ajB0bWNiMmdmY2J0M3NieWRxNnpoNGdrMGlqcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWwxcGdvd2hjbTd3ajB0bWNiMmdmY2J0M3NieWRxNnpoNGdrMGlqcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" height="300" />
   </div>
 </div>
