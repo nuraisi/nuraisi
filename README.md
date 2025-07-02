@@ -8,7 +8,7 @@ I'm Nuraisi, a passionate Data Science student with interests in machine learnin
 📫 How to reach me: zylonuraisi@gmail.com<br>
 ⚡ Fun fact: I love turning complex data into insightful stories!
 </div>
-
+---
 ###
 <div align="left" style="font-size:16px;">
 My Github stats
@@ -20,7 +20,7 @@ My Github stats
 </div>
 
 ###
-
+---
 <div align="left" style="font-size:16px;">
 Skills
 </div>
@@ -72,7 +72,7 @@ Skills
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="35" alt="kaggle logo"  />
 </div>
-
+---
 ###
 <div align="left" style="font-size:16px;">
 Connect with me
@@ -89,7 +89,7 @@ Connect with me
     <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="behance logo"  />
   </a>
 </div>
-
+---
 ###
 <table>
   <tr>
@@ -110,3 +110,4 @@ Connect with me
     </td>
   </tr>
 </table>
+---
