@@ -21,7 +21,7 @@
 
 ###
 
-<div align="left">
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 12px;">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
